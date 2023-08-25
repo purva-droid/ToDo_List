@@ -14,11 +14,6 @@ This project showcases a simple To-Do List web application built using HTML, CSS
 - CSS: Styled the app for an engaging user experience.
 - JavaScript: Enabled interactivity and dynamic updates.
 
-## Getting Started
-
-1. Clone this repository: `git clone https://github.com/yourusername/todo-app.git`
-2. Open `index.html` in your preferred web browser.
-
 ## Usage
 
 1. Type a task into the input field.
